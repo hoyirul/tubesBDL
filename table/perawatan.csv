@@ -1,0 +1,21 @@
+﻿rawat_id;oid;dokter_id;hasil;solusi;tanggal_rawat
+R001;OD012;DC01;Kulit tampak kusam;Facial;2021-09-02
+R002;OD008;DC01;Jerawat;Facial;2021-09-14
+R003;OD011;DC06;Kulit kusam;Exfoliate;2021-09-17
+R004;OD002;DC04;Kulit gelap;Suntik Putih;2021-09-29
+R005;OD013;DC02;Komedo Berlebihan;Clean komedo;2021-10-01
+R006;OD004;DC05;Pasang Bulu mata;Eyelash extension;2021-10-04
+R007;OD005;DC03;Lapisan Kulit terlalu tipis;Laser;2021-10-04
+R008;OD020;DC07;Bibir gelap;Sulam bibir;2021-10-14
+R009;OD007;DC10;Kulit tampak kusam;Facial;2021-10-18
+R010;OD001;DC02;Kulit gelap;Suntik Putih;2021-10-20
+R011;OD009;DC08;Jerawat;Facial;2021-10-20
+R012;OD017;DC07;Pasang Bulu mata;Eyelash extension;2021-10-26
+R013;OD003;DC09;Kulit kering;Moisturizer;2021-10-30
+R014;OD018;DC06;Memutihkan Badan;Suntik DNA salmon;2021-10-31
+R015;OD014;DC08;Kulit kering;Moisturizer;2021-11-20
+R016;OD019;DC09;Bibir gelap;Sulam bibir;2021-11-25
+R017;OD006;DC05;Kulit kering;Moisturizer;2021-11-29
+R018;OD010;DC06;Jerawat;Facial;2021-12-21
+R019;OD016;DC10;Flek Hitam;Microdermabrasi;2021-12-25
+R020;OD015;DC04;Pasang Bulu mata;Eyelash extension;2021-12-25

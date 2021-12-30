@@ -1,0 +1,11 @@
+﻿pemilik_id;uid;nama;jk;no_telp;alamat;tanggal_lahir;status
+D01;U11;Kuncara;L;08464733;Malang;1999-09-11;active
+D02;U12;Gusti;L;08674663;Malang;1998-04-02;unactive
+D03;U13;Dilta;P;08657388;Lumajang;2001-02-18;unactive
+D04;U14;Gusta;P;08756737;Probolinggo;1999-12-01;unactive
+D05;U15;Dewi;P;08948847;Lumajang;1999-04-18;active
+D06;U16;Deki;L;08988472;Malang;1998-06-10;unactive
+D07;U17;Safira;P;08174774;Malang;2000-09-07;active
+D08;U18;Satrya;L;08874663;Malang;2002-11-11;active
+D09;U19;Meliusa;P;08998373;Malang;2000-02-10;active
+D10;U20;Iftitah;P;08876773;Malang;1999-05-25;active

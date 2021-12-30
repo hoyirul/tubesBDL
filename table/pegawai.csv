@@ -1,0 +1,11 @@
+﻿pegawai_id;uid;nama;jk;no_telp;alamat;tanggal_lahir;status
+P01;U01;Mochammad Hairullah;L;8521234;Bondowoso;1999-07-23;active
+P02;U02;Dherisma Hanindita;P;8523521;Jember;2000-07-11;active
+P03;U03;Faiza Kurnia;P;8527890;Probolinggo;1990-07-10;active
+P04;U04;Aida Millati;P;8125725;Malang;1999-12-04;unactive
+P05;U05;Cintya Aprila;P;8541245;Situbondo;1992-02-09;unactive
+P06;U06;Fattahul Ulum;L;8169310;Bandung;1989-01-06;unactive
+P07;U07;Lorensa Rohmatir;P;8234679;Sidoarjo;1998-01-17;active
+P08;U08;Annastasya Ammali;P;8871028;Lumajang;1991-11-08;active
+P09;U09;Rafly Akbar;L;8766182;Solo;1999-07-02;unactive
+P10;U10;Valencia Nugroho;P;8876412;Surabaya;199=89-04-22;active

@@ -1,0 +1,11 @@
+﻿dokter_id;uid;nama;jk;no_telp;alamat;tanggal_lahir;spesialis;status
+DC01;U31;Daniel;L;08763746752;Bondowoso;1990-09-20;kecantikan;active
+DC02;U32;Daniel;L;08763747464;Jember;1980-09-21;kecantikan;active
+DC03;U33;Gigin;L;08763746947;Probolinggo;1970-11-22;kecantikan;unactive
+DC04;U34;Yayak;L;08762146736;Malang;1983-12-23;kecantikan;active
+DC05;U35;Rizal;L;08647388283;Situbondo;1994-08-24;kecantikan;unactive
+DC06;U36;Fajar;L;08126357487;Bandung;1993-11-25;kecantikan;active
+DC07;U37;Usama;L;08029388730;Sidoarjo;1998-12-26;kecantikan;active
+DC08;U38;Rohman;L;08657387784;Lumajang;1992-01-27;kecantikan;active
+DC09;U39;Zakari;L;08562376346;Solo;1984-09-28;kecantikan;unactive
+DC10;U40;Ezra;L;08645537488;Surabaya;1987-04-29;kecantikan;active

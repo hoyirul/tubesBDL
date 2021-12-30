@@ -1,0 +1,11 @@
+﻿pelanggan_id;uid;nama;jk;no_telp;alamat;tanggal_lahir;status
+C01;U21;Yasmine;P;08763746372;Bandung;1999-09-03;pelanggan
+C02;U22;Dea;P;08763746746;Malang;1999-12-04;guest
+C03;U23;Aini;P;08763746652;Jakarta;2003-03-29;guest
+C04;U24;Catherin;P;08762146372;Madura;2000-02-03;pelanggan
+C05;U25;Abitha;P;08237483889;Malang;1999-09-06;pelanggan
+C06;U26;Wuri;P;08126356478;Malang;2001-08-02;pelanggan
+C07;U27;Rara;P;08029300499;Malang;1999-09-08;pelanggan
+C08;U28;Nabiel;P;08657388273;Surabaya;1999-09-09;guest
+C09;U29;Desi;P;08562377283;Jember;1997-05-17;guest
+C10;U30;Sherlyta;P;08645533625;Surabaya;1999-07-02;pelanggan
